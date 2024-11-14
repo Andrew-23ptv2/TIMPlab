@@ -1,3 +1,0 @@
-/home/stud/Desktop/laba1_chast2/main.cpp
-/home/stud/Desktop/laba1_chast2/modAlphakey.h
-/home/stud/Desktop/laba1_chast2/modAlphakey.cpp
