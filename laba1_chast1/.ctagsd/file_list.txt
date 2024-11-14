@@ -1,0 +1,3 @@
+/home/stud/Desktop/laba1_chast1/main.cpp
+/home/stud/Desktop/laba1_chast1/modAlphaChiper.h
+/home/stud/Desktop/laba1_chast1/modAlphaChiper.cpp
